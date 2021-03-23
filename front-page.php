@@ -1,6 +1,6 @@
 <?php 
 	get_header();
-	// File base for loop blogs posts.
+	// File base for home page.
 ?>
 	<!-- Include a component -->
 	<?php include get_theme_file_path('includes/component.php');?>
